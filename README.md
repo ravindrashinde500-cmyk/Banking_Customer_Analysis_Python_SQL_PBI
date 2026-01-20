@@ -134,13 +134,12 @@ banking-customer-analysis/
 <h2><a class="anchor" id="dashboard"><a>Dashboard<h2>
 
 - The dashboard provides overall information about Banking customers' total loans, business lending, total deposits, total CC amount, foreign currency amount, etc.
-
-## The dashboard was built using the following tools and technologies:-
-### Power BI Desktop: Main data visualisation platform used for report creation.
-### Power query: Data transformation and cleaning layer, reshaping and preparing the data.
-### Dax(Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
-### Data Modelling: Relationship established among tables(resorts, snow, and data_dictionary) to enable                         cross-filtering and aggregation.
-### File Format:.pbix for development and .png for dashboard previews.
+- The dashboard was built using the following tools and technologies
+- Power BI Desktop: Main data visualisation platform used for report creation.
+- Power query: Data transformation and cleaning layer, reshaping and preparing the data.
+- Dax(Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
+- Data Modelling: Relationship established among tables(resorts, snow, and data_dictionary) to enable                         cross-filtering and aggregation.
+- File Format:.pbix for development and .png for dashboard previews.
 
    - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking_PBI_Dashboard.pbix">Banking Customer_PBI_Dashboard</a>
 
