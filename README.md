@@ -84,6 +84,7 @@ banking-customer-analysis/
 ├── scripts/                    # Python scripts for ingestion and processing
 │   ├── banking_script.py
 │   
+│
 ├── dashboard/                  # Power BI dashboard file
 │   └── banking_pbi_dashboard.pbix
 ```
@@ -115,7 +116,7 @@ banking-customer-analysis/
     -  “High”)
  
 ---
-<h2><a class="anchor" id="explanatory-data-analysis"></a>Exploratory Data Analysis</h2>
+<h2><a class="anchor" id="exploratory-data-analysis"></a>Exploratory Data Analysis</h2>
 
 - Customer demographics and income levels significantly influence loan uptake and default risk, with higher   loan-to-income ratios showing  increased risk.
 
@@ -127,21 +128,22 @@ banking-customer-analysis/
 
 - Strong correlations were identified between credit scores, repayment behaviour, and default probability,    supporting data-driven credit decisions.
 
-- Insights from EDA were used to guide SQL analysis and dashboard design.
-
 ---
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-<h2><a class="anchor" id="dashboard"><a>Dashboard<h2>
+- The dashboard was built using the following tools and technologies:-
 
-- The dashboard provides overall information about Banking customers' total loans, business lending, total deposits, total CC amount, foreign currency amount, etc.
-- The dashboard was built using the following tools and technologies
-- Power BI Desktop: Main data visualisation platform used for report creation.
-- Power query: Data transformation and cleaning layer, reshaping and preparing the data.
-- Dax(Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
-- Data Modelling: Relationship established among tables(resorts, snow, and data_dictionary) to enable                         cross-filtering and aggregation.
-- File Format:.pbix for development and .png for dashboard previews.
+  - Power BI Desktop: Main data visualisation platform used for report creation.
+  
+  - Power query: Data transformation and cleaning layer, reshaping and preparing the data.
+ 
+  - Dax(Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
+  
+  - Data Modelling: Relationship established among tables(resorts, snow, and data_dictionary) to enable                         cross-filtering and aggregation.
+  
+  - File Format:.pbix for development and .png for dashboard previews.
 
-   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking_PBI_Dashboard.pbix">Banking Customer_PBI_Dashboard</a>
+   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/banking_pbi_dashboard.pbix">Banking Customer_PBI_Dashboard</a>
 
    - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Home.png">Home</a>
 
@@ -158,18 +160,22 @@ banking-customer-analysis/
 ```bash
 git clone https://github.com/yourusername/banking-customer-analysis.git
 ```
-3. Load the CSVs and ingest into the database:
+
+2. Load the CSVs and ingest into the database:
 ```bash
 python scripts/ingestion_db.py
 ```
-4. Create banking summary table:
+
+3. Create banking summary table:
 ```bash
 python scripts/get_banking_summary.py
 ```
-5. Open and run notebooks:
+
+4. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/banking_customer_analysis.ipynb`
-6. Open Power BI Dashboard:
+
+5. Open Power BI Dashboard:
    - `dashboard/banking_customer_dashboard.pbix`
 
 - Open Power BI Dashboard: <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking_PBI_Dashboard.pbix">Banking_Customer_Dashboard</a>
@@ -193,7 +199,7 @@ python scripts/get_banking_summary.py
 - As outlined in this write-up, a banking operations dashboard in Power BI can be developed to key banking-related metrics and KPIs.
 
 ---
-<h2><a class="anchor" id=future-work"></a>Future Work</h2>
+<h2><a class="anchor" id="future-work"></a>Future Work</h2>
 
 - Incorporate real-time transaction data to enable dynamic risk scoring and early warning systems.
 
