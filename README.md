@@ -84,7 +84,6 @@ banking-customer-analysis/
 ├── scripts/                    # Python scripts for ingestion and processing
 │   ├── banking_script.py
 │   
-│
 ├── dashboard/                  # Power BI dashboard file
 │   └── banking1_dashboard.pbix
 ```
