@@ -85,7 +85,7 @@ banking-customer-analysis/
 │   ├── banking_script.py
 │   
 ├── dashboard/                  # Power BI dashboard file
-│   └── banking1_dashboard.pbix
+│   └── banking_pbi_dashboard.pbix
 ```
 
 ---
