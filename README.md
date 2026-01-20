@@ -130,6 +130,7 @@ banking-customer-analysis/
 - Insights from EDA were used to guide SQL analysis and dashboard design.
 
 ---
+
 <h2><a class="anchor" id="dashboard"><a>Dashboard<h2>
 
 - The dashboard provides overall information about Banking customers' total loans, business lending, total deposits, total CC amount, foreign currency amount, etc.
