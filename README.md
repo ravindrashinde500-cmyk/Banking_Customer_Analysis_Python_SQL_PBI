@@ -135,7 +135,7 @@ banking-customer-analysis/
 
 - The dashboard provides overall information about Banking customers' total loans, business lending, total deposits, total CC amount, foreign currency amount, etc.
 
-### The dashboard was built using the following tools and technologies:-
+## The dashboard was built using the following tools and technologies:-
 ### Power BI Desktop: Main data visualisation platform used for report creation.
 ### Power query: Data transformation and cleaning layer, reshaping and preparing the data.
 ### Dax(Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
