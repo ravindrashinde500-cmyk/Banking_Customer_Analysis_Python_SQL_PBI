@@ -127,6 +127,8 @@ banking-customer-analysis/
 
 - Strong correlations were identified between credit scores, repayment behaviour, and default probability,    supporting data-driven credit decisions.
 
+- Insights from EDA were used to guide SQL analysis and dashboard design.
+
 ---
 <h2><a class="anchor" id="dashboard"><a>Dashboard<h2>
 
