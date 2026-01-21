@@ -168,12 +168,7 @@ banking-customer-analysis/
 
 
 - <a href= "https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/tree/fe7d4cea1053b03a3b1d6f71e538c3e896b6e31d/pbi_dashboard">Power BI Dashboard</a>
-   
 
-  
-
- 
-   
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>"How to Run This Project</h2>
@@ -204,7 +199,8 @@ banking-customer-analysis/
    - `dashboard/banking_customer_dashboard.pbix`
 ```
 
-- **Open Power BI Dashboard**: <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking_PBI_Dashboard.pbix">Banking_Customer_Dashboard</a>
+- **Open Power BI Dashboard**:
+- <a href= "https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/tree/fe7d4cea1053b03a3b1d6f71e538c3e896b6e31d/pbi_dashboard">Power BI Dashboard</a>
 
 ---
 
