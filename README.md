@@ -166,8 +166,8 @@ banking-customer-analysis/
 - Summary:
 - ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/ea8b73b150eda86561b655560c90db1144ccbf2c/images/summary.png)
 
-- <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Home.png">Power BI Dashboard</a>
 
+- <a href= "https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/tree/fe7d4cea1053b03a3b1d6f71e538c3e896b6e31d/pbi_dashboard">Power BI Dashboard</a>
    
 
   
