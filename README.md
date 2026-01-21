@@ -1,4 +1,4 @@
-#🧾 Banking Customer Analysis – Accounts and Portfolio Management
+# 🧾 Banking Customer Analysis – Accounts and Portfolio Management
 
 _Analyzing customer credit profiles and transaction patterns to support data-driven loan approval and risk assessment decisions using SQL, Python, and Power BI._
 
