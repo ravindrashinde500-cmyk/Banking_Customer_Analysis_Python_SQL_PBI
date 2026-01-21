@@ -11,7 +11,7 @@ _Analyzing customer credit profiles and transaction patterns to support data-dri
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-(EDA)">Exploratory Data Analysis (EDA)</a>
+- <a href="#exploratory-data-analysis">Exploratory Data Analysis (EDA)</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#key-insights">Key Insights</a>
