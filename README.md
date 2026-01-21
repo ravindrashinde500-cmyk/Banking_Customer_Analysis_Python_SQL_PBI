@@ -82,7 +82,7 @@ banking-customer-analysis/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── banking customer Report.pdf
+├── banking_customer_report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── exploratory_data_analysis.ipynb
