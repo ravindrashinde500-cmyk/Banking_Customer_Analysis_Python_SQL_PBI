@@ -52,7 +52,8 @@ _Analyzing customer credit profiles and transaction patterns to support data-dri
 ---
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
-- <a href= "https://github.com/ravindrashinde500 cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking.xlsx">Dataset</a>
+
+- <a href= "https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/tree/5a7041c19be17604ed443c849d3efcccfeaab335/data">Dataset</a>
 
 - Multiple CSV files are located in /data/ folder.
 
