@@ -158,7 +158,7 @@ banking-customer-analysis/
 - ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/83dcb287b737b26fb5ab2e033b0c2b914066a2af/images/home.png)
 
 - Loan Analysis:
--![image alt]()
+-![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/ed81224b0645624ad5b1170d867d250308908d05/images/loan_analysis.png)
 
 - Deposit Analysis:
 -![image alt]()
