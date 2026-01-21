@@ -158,15 +158,15 @@ banking-customer-analysis/
 - ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/83dcb287b737b26fb5ab2e033b0c2b914066a2af/images/home.png)
 
 - Loan Analysis:
--![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/ed81224b0645624ad5b1170d867d250308908d05/images/loan_analysis.png)
+- ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/ed81224b0645624ad5b1170d867d250308908d05/images/loan_analysis.png)
 
 - Deposit Analysis:
--![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/358879de33d439ed8b46091f5743deabe973d272/images/deposit_analysis.png)
+- ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/358879de33d439ed8b46091f5743deabe973d272/images/deposit_analysis.png)
 
-- Summary: 
-- ![image alt]()
+- Summary:
+- ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/ea8b73b150eda86561b655560c90db1144ccbf2c/images/summary.png)
 
-   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/banking_pbi_dashboard.pbix">Banking Customer_PBI_Dashboard</a>
+   - <a href= >Power BI Dashboard</a>
 
    
    
