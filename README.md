@@ -156,17 +156,27 @@ banking-customer-analysis/
 - **Dashboard Screenshots**:
 - Home:
 - ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/83dcb287b737b26fb5ab2e033b0c2b914066a2af/images/home.png)
-  
+
+- Loan Analysis:
+-
+
+- Deposit Analysis:
+-
+
+- Summary: 
+- 
 
    - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/banking_pbi_dashboard.pbix">Banking Customer_PBI_Dashboard</a>
 
+   
+   
    - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Home.png">Home</a>
 
-   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Loan_Analysis.png">Loan_Analysis</a>
+   
 
-   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Deposit_Analysis.png">Deposit_Analysis</a>
+  
 
-   - <a href= "https://github.com/ravindrashinde500-cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Summary.png">Summary</a>
+ 
    
 ---
 
