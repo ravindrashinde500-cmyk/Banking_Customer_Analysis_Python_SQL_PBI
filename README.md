@@ -154,6 +154,7 @@ banking-customer-analysis/
   - **File Format** :.pbix for development and .png for dashboard previews.
 
 - **Dashboard Screenshots**:
+- Home:
 - ![image alt](https://github.com/ravindrashinde500-cmyk/banking-customer-analysis-python-sql-powerbi/blob/83dcb287b737b26fb5ab2e033b0c2b914066a2af/images/home.png)
   
 
