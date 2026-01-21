@@ -125,7 +125,7 @@ banking-customer-analysis/
 
 ---
 
-<h2><a class="anchor" id="exploratory-data-analysis-(EDA)"></a>Exploratory Data Analysis (EDA)</h2>
+<h2><a class="anchor" id="exploratory-data-analysis-(eda)"></a>Exploratory Data Analysis (EDA)</h2>
 
 - Customer demographics and income levels significantly influence loan uptake and default risk, with higher loan-to-income ratios showing  increased risk.
 
